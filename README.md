@@ -1,6 +1,6 @@
 # 🐳 Ansible Role: Docker Installation & Configuration
 
-![Project Banner](images/install-docker-via-ansible.png)
+![Project Banner](images/install-docker-via-ansible.jpg)
 
 This Ansible role automates the **installation and configuration of Docker**.  
 It provides a reliable, repeatable, and scalable way to set up Docker across multiple systems.
